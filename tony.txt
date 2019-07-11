@@ -9,3 +9,4 @@ is
 a good 
 tester
 Satyendra is a teacher in intermediate college.
+pravesh is a student of BED
